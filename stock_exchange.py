@@ -6,7 +6,7 @@ STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 
 
-def main():
+def stock_exchange():
     # STEP 1: Use https://www.alphavantage.co
     # When STOCK price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
     tesla_stock_obj = stk.StockExchange('TSLA')
@@ -32,4 +32,4 @@ Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and 
 """
 
 if __name__ == '__main__':
-    main()
+    stock_exchange()
