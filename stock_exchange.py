@@ -1,6 +1,7 @@
 # Import python modules.
 # Import internal modules.
 import api_stock_exchange as stk
+import api_news as news
 # Constants.
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
@@ -15,6 +16,9 @@ def stock_exchange():
 
     # STEP 2: Use https://newsapi.org
     # Instead of printing ("Get News"), actually get the first 3 news pieces for the COMPANY_NAME.
+    tesla_news_obj = news.News('Tesla')
+    tesla_news_list = tesla_news_obj.get_last_headlines(3)
+    print(tesla_news_list)
 
     # STEP 3: Use https://www.twilio.com
     # Send a seperate message with the percentage change and each article's title and description to your phone number.
