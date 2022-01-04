@@ -2,6 +2,7 @@
 # Import internal modules.
 import api_stock_exchange as stk
 import api_news as news
+import send_sms as snd
 # Constants.
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
@@ -22,6 +23,8 @@ def stock_exchange():
 
     # STEP 3: Use https://www.twilio.com
     # Send a seperate message with the percentage change and each article's title and description to your phone number.
+    sms_sender = snd.TwilioSMS()
+    sms_sender.send_sms('Put here the message to send.')
     return
 
 # Optional: Format the SMS message like this:
