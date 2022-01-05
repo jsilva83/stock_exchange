@@ -1,0 +1,64 @@
+{
+  '2022-01-04':
+  {
+    '1. open': '1189.5500',
+    '2. high': '1208.0000',
+    '3. low': '1123.0500',
+    '4. close': '1149.5900',
+    '5. volume': '33098418'
+  },
+  '2022-01-03':
+  {
+    '1. open': '1147.7500',
+    '2. high': '1201.0700',
+    '3. low': '1136.0400',
+    '4. close': '1199.7800',
+    '5. volume': '34895349'
+  }
+}
+
+[
+  {
+    'source':
+    {
+      'id': 'next-big-future',
+      'name': 'Next Big Future'
+    },
+    'author': 'Brian Wang',
+    'title': 'BYD, Xpeng, Nio and Tesla for 2021 and 2022 | NextBigFuture.com',
+    'description': 'BYD is the second-largest EV carmaker. Volkswagen is third. Tesla is the largest. This is not counting',
+    'url': 'https://www.nextbigfuture.com/2022/01/byd-xpeng-nio-and-tesla-for-2021-and-2022.html',
+    'urlToImage': 'https://nextbigfuture.s3.amazonaws.com/uploads/2021/10/TeslaBYD.jpg',
+    'publishedAt': '2022-01-04T18:02:01Z',
+    'content': 'BYD is the second-largest EV carmaker. Volkswagen is third. Tesla is the largest. This is not counting \r\nBYD released production and sales data for 2021.\r\nBYD made almost 323,000 EVs in 2021. Tesla p… [+3229 chars]'
+  },
+  {
+    'source':
+    {
+      'id': 'the-wall-street-journal',
+      'name': 'The Wall Street Journal'
+    },
+    'author': 'Mike Colias',
+    'title': 'Toyota Overtakes GM as Best-Selling Auto Maker in U.S.',
+    'description': 'Tesla and Hyundai gain U.S. market share in 2021 as semiconductor disruption affected companies differently',
+    'url': 'https://www.wsj.com/articles/detroit-seen-losing-ground-in-auto-sales-race-11641297653?mod=hp_lead_pos1',
+    'urlToImage': 'https://images.wsj.net/im-460640/social',
+    'publishedAt': '2022-01-04T12:00:00Z',
+    'content': 'The Japanese auto maker, which for decades has worked to expand its presence in the U.S., outsold GM by roughly 114,000 vehicles in the full-year 2021. Toyotas total U.S. sales of 2.3 million were up… [+4586 chars]'
+  },
+  {
+    'source':
+    {
+      'id': 'next-big-future',
+      'name': 'Next Big Future'
+    },
+    'author': 'Brian Wang',
+    'title': 'Tesla 2022 Car Production Could Beat Analyst Estimates for 2024 or 2025 | NextBigFuture.com',
+    'description': 'Tesla just announced car deliveries for the fourth quarter (October, November, December) 2021 and they were 308000 cars. This beat wall street analyst',
+    'url': 'https://www.nextbigfuture.com/2022/01/tesla-2022-car-production-could-beat-analyst-estimates-for-2024-or-2025.html',
+    'urlToImage': 'https://nextbigfuture.s3.amazonaws.com/uploads/2019/11/teslacybertruck.jpg',
+    'publishedAt': '2022-01-03T09:20:20Z',
+    'content': 'Tesla just announced car deliveries for the fourth quarter (October, November, December) 2021 and they were 308000 cars. This beat wall street analyst expectations of 267,000 and the whisper number o… [+4004 chars]'
+  }
+]
+
